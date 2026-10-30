@@ -1,0 +1,184 @@
+<div id="municipio-conceito" lang="pt-BR" aria-label="Conceito da central de gestão municipal">
+  <style>
+    #municipio-conceito { --mc-bg:light-dark(#f3f5f8,#131b28); --mc-surface:light-dark(#ffffff,#1a2636); --mc-ink:light-dark(#16253b,#e8eef7); --mc-muted:light-dark(#53647b,#acbcd0); --mc-line:light-dark(#dce3ed,#35455a); --mc-active:light-dark(#174b71,#96cbe8); --mc-onactive:light-dark(#ffffff,#102638); --mc-soft:light-dark(#eaf2f7,#213c4d); --mc-warn:light-dark(#8c4e0e,#f4c38b); --mc-warnbg:light-dark(#fff2df,#3d2e1d); --mc-ok:light-dark(#17674d,#93d2b7); --mc-okbg:light-dark(#e7f4ee,#1b392f); color:var(--mc-ink); font:14px/1.5 system-ui,sans-serif; background:var(--mc-bg); border:1px solid var(--mc-line); border-radius:14px; overflow:hidden; }
+    #municipio-conceito * { box-sizing:border-box; }
+    #municipio-conceito [hidden] { display:none!important; }
+    #municipio-conceito button, #municipio-conceito input, #municipio-conceito select { font:inherit; }
+    #municipio-conceito button { color:inherit; }
+    #municipio-conceito .mc-head { display:flex; align-items:center; justify-content:space-between; gap:12px; padding:19px 110px 19px 22px; background:var(--mc-surface); border-bottom:1px solid var(--mc-line); flex-wrap:wrap; }
+    #municipio-conceito .mc-brand { display:flex; align-items:center; gap:12px; }
+    #municipio-conceito .mc-monogram { background:var(--mc-active); color:var(--mc-onactive); width:36px; height:36px; border-radius:10px; display:grid; place-items:center; font-weight:700; }
+    #municipio-conceito .mc-name { font-size:16px; font-weight:650; }
+    #municipio-conceito .mc-small { font-size:12px; color:var(--mc-muted); }
+    #municipio-conceito .mc-demo { font-size:11px; letter-spacing:.06em; font-weight:650; color:var(--mc-warn); background:var(--mc-warnbg); padding:5px 9px; border-radius:5px; }
+    #municipio-conceito .mc-shell { display:grid; grid-template-columns:183px minmax(0,1fr); }
+    #municipio-conceito .mc-nav { padding:20px 11px; background:var(--mc-surface); border-right:1px solid var(--mc-line); }
+    #municipio-conceito .mc-nav button { width:100%; display:flex; align-items:center; gap:10px; text-align:left; background:none; border:0; padding:11px 10px; border-radius:7px; margin-bottom:5px; font-size:13px; }
+    #municipio-conceito .mc-nav button[aria-pressed="true"] { background:var(--mc-active); color:var(--mc-onactive); }
+    #municipio-conceito .mc-nav i { flex-shrink:0; }
+    #municipio-conceito .mc-nav-note { margin:27px 10px 0; color:var(--mc-muted); font-size:12px; }
+    #municipio-conceito .mc-main { padding:24px; min-width:0; }
+    #municipio-conceito .mc-kicker { font-size:11px; font-weight:650; letter-spacing:.09em; text-transform:uppercase; color:var(--mc-muted); margin-bottom:6px; }
+    #municipio-conceito h2 { font-size:22px; line-height:1.25; letter-spacing:-.025em; margin:0 0 8px; font-weight:650; }
+    #municipio-conceito h3 { margin:0; font-size:15px; font-weight:650; }
+    #municipio-conceito p { margin:0; }
+    #municipio-conceito .mc-sub { color:var(--mc-muted); margin-bottom:20px; }
+    #municipio-conceito .mc-grid { display:grid; grid-template-columns:minmax(0,.95fr) minmax(0,1.15fr); gap:16px; align-items:start; }
+    #municipio-conceito .mc-panel { background:var(--mc-surface); border:1px solid var(--mc-line); border-radius:10px; padding:18px; min-width:0; }
+    #municipio-conceito .mc-row { display:flex; justify-content:space-between; align-items:center; gap:12px; flex-wrap:wrap; }
+    #municipio-conceito .mc-label { font-size:12px; color:var(--mc-muted); margin:16px 0 4px; }
+    #municipio-conceito .mc-list { display:grid; gap:9px; margin-top:12px; }
+    #municipio-conceito .mc-case { display:block; width:100%; text-align:left; padding:14px; background:var(--mc-surface); border:1px solid var(--mc-line); border-radius:9px; }
+    #municipio-conceito .mc-case[aria-pressed="true"] { background:var(--mc-soft); border-color:var(--mc-active); }
+    #municipio-conceito .mc-case strong { font-size:14px; font-weight:650; display:block; margin:5px 0; }
+    #municipio-conceito .mc-case span { display:block; font-size:12px; color:var(--mc-muted); }
+    #municipio-conceito .mc-badge { display:inline-block; border-radius:4px; padding:3px 7px; background:var(--mc-soft); color:var(--mc-active); font-size:11px; font-weight:600; }
+    #municipio-conceito .mc-badge.warn { color:var(--mc-warn); background:var(--mc-warnbg); }
+    #municipio-conceito .mc-badge.ok { color:var(--mc-ok); background:var(--mc-okbg); }
+    #municipio-conceito .mc-detail { padding-top:13px; margin-top:13px; border-top:1px solid var(--mc-line); }
+    #municipio-conceito .mc-facts { margin:0; }
+    #municipio-conceito .mc-facts div { display:grid; grid-template-columns:90px 1fr; gap:8px; margin:10px 0; }
+    #municipio-conceito dt { color:var(--mc-muted); font-size:12px; }
+    #municipio-conceito dd { margin:0; font-size:13px; }
+    #municipio-conceito .mc-btn { border:1px solid var(--mc-line); background:var(--mc-surface); padding:9px 12px; border-radius:7px; font-weight:600; font-size:12px; }
+    #municipio-conceito .mc-btn.primary { background:var(--mc-active); color:var(--mc-onactive); border-color:var(--mc-active); }
+    #municipio-conceito .mc-btn:disabled { opacity:.65; }
+    #municipio-conceito .mc-full { width:100%; margin-top:12px; }
+    #municipio-conceito .mc-input { display:block; width:100%; background:var(--mc-bg); color:var(--mc-ink); border:1px solid var(--mc-line); border-radius:6px; padding:9px; min-width:0; }
+    #municipio-conceito .mc-feedback { margin-top:10px; font-size:12px; color:var(--mc-ok); }
+    #municipio-conceito .mc-foot { margin-top:17px; font-size:11px; color:var(--mc-muted); }
+    #municipio-conceito .mc-table { width:100%; border-collapse:collapse; font-size:13px; }
+    #municipio-conceito .mc-table th { text-align:left; color:var(--mc-muted); font-size:12px; font-weight:500; padding:0 8px 12px; }
+    #municipio-conceito .mc-table td { padding:13px 8px; border-top:1px solid var(--mc-line); vertical-align:top; }
+    #municipio-conceito .mc-table small { display:block; color:var(--mc-muted); font-size:11px; margin-top:3px; }
+    #municipio-conceito .mc-resource { display:grid; grid-template-columns:1fr 1fr; gap:14px; margin-top:16px; }
+    #municipio-conceito .mc-value { font-size:23px; letter-spacing:-.02em; font-weight:600; margin-top:7px; font-variant-numeric:tabular-nums; }
+    #municipio-conceito .mc-track { margin-top:10px; height:5px; border-radius:4px; background:var(--mc-bg); overflow:hidden; }
+    #municipio-conceito .mc-track span { display:block; height:100%; background:var(--mc-active); }
+    #municipio-conceito .mc-steps { display:grid; grid-template-columns:repeat(3,1fr); gap:10px; margin:16px 0; }
+    #municipio-conceito .mc-step { border-top:3px solid var(--mc-active); padding-top:9px; }
+    #municipio-conceito .mc-step span { display:block; color:var(--mc-muted); font-size:12px; margin-top:4px; }
+    #municipio-conceito .mc-rule { padding:13px 0; border-bottom:1px solid var(--mc-line); }
+    #municipio-conceito .mc-rule:last-child { border:0; padding-bottom:0; }
+    #municipio-conceito .mc-rule strong { display:block; font-size:13px; font-weight:600; }
+    #municipio-conceito .mc-rule span { display:block; color:var(--mc-muted); font-size:12px; margin-top:4px; }
+    #municipio-conceito[data-density="compacta"] .mc-main { padding:17px; }
+    #municipio-conceito[data-density="compacta"] .mc-panel { padding:14px; }
+    #municipio-conceito[data-density="compacta"] .mc-case { padding:10px; }
+    @media(max-width:760px) { #municipio-conceito .mc-shell { grid-template-columns:1fr; } #municipio-conceito .mc-nav { border-right:0; border-bottom:1px solid var(--mc-line); display:flex; flex-wrap:wrap; gap:4px; padding:10px; } #municipio-conceito .mc-nav button { width:auto; margin:0; padding:9px; font-size:12px; } #municipio-conceito .mc-nav-note { display:none; } #municipio-conceito .mc-grid { grid-template-columns:1fr; } #municipio-conceito .mc-main { padding:18px; } }
+    @media(max-width:450px) { #municipio-conceito .mc-head { padding:16px; padding-top:52px; } #municipio-conceito h2 { font-size:20px; } #municipio-conceito .mc-main { padding:13px; } #municipio-conceito .mc-panel { padding:13px; } #municipio-conceito .mc-resource, #municipio-conceito .mc-steps { grid-template-columns:1fr; } #municipio-conceito .mc-table th, #municipio-conceito .mc-table td { padding:10px 4px; font-size:12px; } #municipio-conceito .mc-facts div { grid-template-columns:76px 1fr; } }
+    @media(pointer:coarse) { #municipio-conceito button { min-height:44px; } #municipio-conceito input, #municipio-conceito select { font-size:16px; min-height:44px; } }
+  </style>
+  <header class="mc-head">
+    <div class="mc-brand"><div class="mc-monogram" aria-hidden="true">M</div><div><div class="mc-name">Município 360</div><div class="mc-small">Vacaria · Central de gestão</div></div></div>
+    <span class="mc-demo">CONCEITO · DADOS FICTÍCIOS</span>
+  </header>
+  <div class="mc-shell">
+    <nav class="mc-nav" aria-label="Áreas da central">
+      <button type="button" class="cursor-interaction" data-page="governo" aria-pressed="true"><i data-lucide="layout-dashboard" aria-hidden="true"></i>Gestão de governo</button>
+      <button type="button" class="cursor-interaction" data-page="operacao" aria-pressed="false"><i data-lucide="clipboard-list" aria-hidden="true"></i>Equipes e recursos</button>
+      <button type="button" class="cursor-interaction" data-page="contratos" aria-pressed="false"><i data-lucide="file-check" aria-hidden="true"></i>Obras e contratos</button>
+      <button type="button" class="cursor-interaction" data-page="economia" aria-pressed="false"><i data-lucide="store" aria-hidden="true"></i>Help Local</button>
+      <button type="button" class="cursor-interaction" data-page="autonomia" aria-pressed="false"><i data-lucide="settings-2" aria-hidden="true"></i>Autonomia municipal</button>
+      <div class="mc-nav-note">Visão do gestor<br>Permissões por função<br>Decisões rastreáveis</div>
+    </nav>
+    <main class="mc-main">
+      <section data-view="governo">
+        <div class="mc-kicker">Prioridades e entregas</div><h2>Decisões que destravam serviços</h2>
+        <p class="mc-sub">Responsável, recurso e próxima ação no mesmo lugar.</p>
+        <div class="mc-grid">
+          <div><div class="mc-row"><h3>Dependências de gestão</h3><span class="mc-badge" id="mc-count">3 pendentes</span></div><div class="mc-list" id="mc-cases"></div><div class="mc-foot">Critérios: prazo do serviço e impacto registrado. Toda alteração de prioridade exige justificativa.</div></div>
+          <div class="mc-panel" id="mc-case-detail" aria-live="polite"></div>
+        </div>
+      </section>
+      <section data-view="operacao" hidden>
+        <div class="mc-kicker">Operação municipal</div><h2>Programação com capacidade real</h2><p class="mc-sub">Vincule as ordens de serviço a equipes, materiais e veículos.</p>
+        <div class="mc-panel"><table class="mc-table"><thead><tr><th>Equipe</th><th>Programação</th><th>Dependência</th></tr></thead><tbody><tr><td>Iluminação A<small>2 profissionais</small></td><td>6 reparos programados</td><td><span class="mc-badge ok">Material disponível</span></td></tr><tr><td>Manutenção rural<small>3 profissionais</small></td><td>2 trechos em vistoria</td><td><span class="mc-badge warn">Máquina em manutenção</span></td></tr><tr><td>Limpeza urbana<small>4 profissionais</small></td><td>8 ordens em execução</td><td><span class="mc-badge">Rota definida</span></td></tr></tbody></table></div>
+        <div class="mc-resource"><div class="mc-panel"><div class="mc-small">Luminárias no almoxarifado</div><div class="mc-value">18 unidades</div><div class="mc-small">6 reservadas · 12 disponíveis</div><div class="mc-track" aria-hidden="true"><span style="width:33.33%"></span></div></div><div class="mc-panel"><div class="mc-small">Horas da equipe de iluminação</div><div class="mc-value">12 de 16 h</div><div class="mc-small">4 h ainda disponíveis no turno planejado</div><div class="mc-track" aria-hidden="true"><span style="width:75%"></span></div></div></div>
+        <p class="mc-foot">Exemplo de programação. Dados de estoque e disponibilidade dependem de integração e conferência da unidade responsável.</p>
+      </section>
+      <section data-view="contratos" hidden>
+        <div class="mc-kicker">Execução física e financeira</div><h2>Da entrega à conferência</h2><p class="mc-sub">Acompanhe o que foi contratado, executado e validado.</p>
+        <div class="mc-panel"><div class="mc-row"><h3>Requalificação de uma praça</h3><span class="mc-badge warn">Medição em análise</span></div><div class="mc-resource"><div><div class="mc-label">Contrato demonstrativo</div><div class="mc-value">R$ 240 mil</div></div><div><div class="mc-label">Parcela apresentada</div><div class="mc-value">R$ 36 mil</div></div></div><div class="mc-steps"><div class="mc-step">1. Execução<span>Relatório e fotos recebidos</span></div><div class="mc-step">2. Conferência<span>Fiscal verifica quantidades</span></div><div class="mc-step">3. Encaminhamento<span>Finanças valida no sistema oficial</span></div></div><div class="mc-detail"><div class="mc-row"><div><h3>Pendência da medição</h3><div class="mc-small">Comprovação de 40 m² de pavimentação.</div></div><span class="mc-badge">Fiscal de obras</span></div></div></div>
+        <p class="mc-foot">Aprovação e pagamento respeitam as atribuições e o processo oficial. Este exemplo não executa movimentações financeiras.</p>
+      </section>
+      <section data-view="economia" hidden>
+        <div class="mc-kicker">Desenvolvimento econômico</div><h2>Uma jornada para o negócio local</h2><p class="mc-sub">Atendimento municipal conectado à participação voluntária na Help Local.</p>
+        <div class="mc-grid"><div class="mc-panel"><span class="mc-badge">Ambiente público</span><div class="mc-label">Sala do Empreendedor</div><h3>Negócio demonstrativo</h3><div class="mc-rule"><strong>Orientação e regularização</strong><span>Etapas e documentos acompanhados no processo municipal.</span></div><div class="mc-rule"><strong>Capacitação e eventos</strong><span>Inscrições conforme as regras de cada programa.</span></div><div class="mc-rule"><strong>Convite para a Help Local</strong><span>Cadastro comercial independente e opcional.</span></div></div><div class="mc-panel"><span class="mc-badge">Ambiente comercial</span><div class="mc-label">Help Local</div><h3>Vitrine do negócio</h3><div class="mc-rule"><strong>Produtos e serviços</strong><span>Catálogo, contato, orçamento e agenda.</span></div><div class="mc-rule"><strong>Regras transparentes</strong><span>Publicidade identificada; adesão aberta conforme critérios publicados.</span></div><div class="mc-rule"><strong>Indicadores agregados</strong><span>Negócios participantes, contatos gerados e adesão aos programas.</span></div></div></div>
+        <p class="mc-foot">Serviços públicos não exigem adesão ao marketplace. Dados de saúde, assistência e tributos não alimentam perfis comerciais.</p>
+      </section>
+      <section data-view="autonomia" hidden>
+        <div class="mc-kicker">Configuração e governança</div><h2>O município define as regras</h2><p class="mc-sub">Fluxos editáveis, acesso por função e histórico preservado.</p>
+        <div class="mc-grid"><form class="mc-panel" id="mc-rule-form"><h3>Regra de atendimento</h3><label class="mc-label" for="mc-service" style="display:block">Serviço</label><select class="mc-input" id="mc-service"><option>Iluminação pública</option><option>Limpeza urbana</option></select><label class="mc-label" for="mc-owner" style="display:block">Unidade responsável</label><select class="mc-input" id="mc-owner"><option>Obras e Serviços Públicos</option><option>Unidade de manutenção urbana</option></select><label class="mc-label" for="mc-days" style="display:block">Prazo interno de encaminhamento (dias úteis)</label><input class="mc-input" id="mc-days" type="number" value="2" min="1" max="30" required><button class="mc-btn primary mc-full cursor-interaction" type="submit">Salvar rascunho da regra</button><p class="mc-feedback" id="mc-rule-feedback" aria-live="polite"></p></form><div class="mc-panel"><h3>Controles do município</h3><div class="mc-rule"><strong>Permissões e alçadas</strong><span>Cada perfil acessa e decide dentro da sua atribuição.</span></div><div class="mc-rule"><strong>Publicação com aprovação</strong><span>Mudanças têm versão, justificativa e responsável.</span></div><div class="mc-rule"><strong>Histórico preservado</strong><span>Registros de acesso e decisões permanecem auditáveis.</span></div><div class="mc-rule"><strong>Dados portáveis</strong><span>Exportação documentada, cópias e plano de continuidade.</span></div><div class="mc-rule"><strong>Integrações supervisionadas</strong><span>Origem, atualização e falhas visíveis para a equipe municipal.</span></div></div></div>
+      </section>
+    </main>
+  </div>
+  <script>
+    (function () {
+      const root = document.getElementById('municipio-conceito');
+      const cases = [
+        { id:'luz', tag:'Recurso e equipe', title:'6 pontos de iluminação', summary:'Material disponível; aguarda programação.', owner:'Coordenação de manutenção', barrier:'Falta vincular o lote à programação da equipe.', resource:'6 luminárias reservadas · equipe A com 4 h disponíveis', money:'Materiais já em estoque; conferir custo na baixa.', next:'Encaminhar a programação à coordenação responsável.', history:'Solicitação agrupada → estoque conferido → aguarda programação' },
+        { id:'licenca', tag:'Dependência entre áreas', title:'Processo de licenciamento', summary:'Análise depende de manifestação técnica.', owner:'Planejamento e Urbanismo', barrier:'Parecer de outra unidade ainda não foi recebido.', resource:'Analista designado; documento complementar anexado.', money:'Sem nova despesa prevista neste encaminhamento.', next:'Solicitar prazo de manifestação à unidade técnica.', history:'Documentos recebidos → análise inicial → pendência técnica' },
+        { id:'contrato', tag:'Prazo de contrato', title:'Continuidade de fornecimento', summary:'Contrato demonstrativo vence em 45 dias.', owner:'Gestor do contrato e Compras', barrier:'Demanda do próximo período ainda não consolidada.', resource:'Consumo registrado e saldo contratual para conferência.', money:'Dotação e saldo precisam ser validados por Finanças.', next:'Encaminhar planejamento da continuidade a Compras.', history:'Alerta de vencimento → demanda em consolidação → análise pendente' }
+      ];
+      let state = { page:'governo', selected:'luz', sent:[], days:2, service:'Iluminação pública', owner:'Obras e Serviços Públicos' };
+      const prefs = { density:'confortável' };
+      function restore(snapshot) {
+        const s = snapshot && snapshot.privateContent;
+        if (!s) return;
+        if (['governo','operacao','contratos','economia','autonomia'].includes(s.page)) state.page=s.page;
+        if (cases.some(c=>c.id===s.selected)) state.selected=s.selected;
+        if (Array.isArray(s.sent)) state.sent=s.sent.filter(id=>cases.some(c=>c.id===id));
+        if (Number.isInteger(s.days) && s.days>=1 && s.days<=30) state.days=s.days;
+        if (['Iluminação pública','Limpeza urbana'].includes(s.service)) state.service=s.service;
+        if (['Obras e Serviços Públicos','Unidade de manutenção urbana'].includes(s.owner)) state.owner=s.owner;
+      }
+      function save() {
+        if (window.openai && window.openai.setWidgetState) {
+          window.openai.setWidgetState({modelContent:{concept:'Município 360',view:state.page,example:state.selected,fictional:true},privateContent:{...state}}).catch(()=>{});
+        }
+      }
+      function render() {
+        root.querySelectorAll('[data-page]').forEach(b=>b.setAttribute('aria-pressed',String(b.dataset.page===state.page)));
+        root.querySelectorAll('[data-view]').forEach(p=>p.hidden=p.dataset.view!==state.page);
+        root.querySelector('#mc-count').textContent=(3-state.sent.length)+' pendentes';
+        root.querySelector('#mc-cases').innerHTML=cases.map(c=>'<button type="button" class="mc-case cursor-interaction" data-case="'+c.id+'" aria-pressed="'+(c.id===state.selected)+'"><span>'+c.tag+'</span><strong>'+c.title+'</strong><span>'+(state.sent.includes(c.id)?'Encaminhamento registrado na demonstração.':c.summary)+'</span></button>').join('');
+        const c=cases.find(c=>c.id===state.selected);
+        const sent=state.sent.includes(c.id);
+        root.querySelector('#mc-case-detail').innerHTML='<div class="mc-row"><h3>'+c.title+'</h3><span class="mc-badge '+(sent?'ok':'warn')+'">'+(sent?'Encaminhado':'Ação necessária')+'</span></div><dl class="mc-facts"><div><dt>Responsável</dt><dd>'+c.owner+'</dd></div><div><dt>Gargalo</dt><dd>'+c.barrier+'</dd></div><div><dt>Capacidade</dt><dd>'+c.resource+'</dd></div><div><dt>Financeiro</dt><dd>'+c.money+'</dd></div></dl><div class="mc-detail"><div class="mc-small">Próxima ação</div><p style="margin-top:5px">'+c.next+'</p>'+(sent?'<p class="mc-feedback">Registro simulado incluído. A unidade responsável deve confirmar a execução.</p>':'<button type="button" class="mc-btn primary mc-full cursor-interaction" id="mc-send">Simular encaminhamento</button>')+'</div><div class="mc-detail"><div class="mc-small">Trilha do processo</div><p class="mc-small" style="margin-top:5px">'+c.history+(sent?' → encaminhamento registrado':'')+'</p></div>';
+        root.querySelector('#mc-days').value=state.days;
+        root.querySelector('#mc-service').value=state.service;
+        root.querySelector('#mc-owner').value=state.owner;
+      }
+      root.addEventListener('click',event=>{
+        const page=event.target.closest('[data-page]');
+        const item=event.target.closest('[data-case]');
+        const send=event.target.closest('#mc-send');
+        if (page) {state.page=page.dataset.page;render();save();}
+        else if (item) {state.selected=item.dataset.case;render();save();}
+        else if (send) {if(!state.sent.includes(state.selected))state.sent.push(state.selected);render();save();}
+      });
+      root.querySelector('#mc-rule-form button').type='button';
+      root.querySelector('#mc-rule-form').addEventListener('submit',event=>event.preventDefault());
+      root.querySelector('#mc-rule-form button').addEventListener('click',event=>{
+        event.preventDefault();
+        if(!root.querySelector('#mc-rule-form').reportValidity())return;
+        state.days=Number(root.querySelector('#mc-days').value);
+        state.service=root.querySelector('#mc-service').value;
+        state.owner=root.querySelector('#mc-owner').value;
+        root.querySelector('#mc-rule-feedback').textContent='Rascunho simulado: '+state.service+', '+state.days+' dia(s) útil(eis), sob responsabilidade de '+state.owner+'. Aguarda aprovação para publicação.';
+        save();
+      });
+      restore(window.openai && window.openai.widgetState);
+      render();
+      window.addEventListener('openai:set_globals',event=>{
+        const snapshot=event.detail && event.detail.globals && event.detail.globals.widgetState;
+        if(snapshot){restore(snapshot);render();}
+      });
+      if(globalThis.Tweak){
+        const tweak=new Tweak({container:root,onChange:()=>{root.dataset.density=prefs.density;}});
+        tweak.addSelect(prefs,'density',{label:'Densidade da central',options:['confortável','compacta']});
+      }
+    })();
+  </script>
+</div>

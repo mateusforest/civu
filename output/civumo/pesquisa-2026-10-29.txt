@@ -1,0 +1,88 @@
+CIVUMO — PROPOSTA DE NOME E TRIAGEM PRELIMINAR
+Data da pesquisa: 29/10/2026
+Mercado considerado: Brasil. Software de gestão municipal integrada, automação e portais digitais.
+Status: candidato criativo com pesquisa preliminar; não constitui liberação jurídica nem garantia de exclusividade.
+
+PROPOSTA
+Nome: Civumo
+Pronúncia sugerida: ci-VU-mo (som inicial de "cidade").
+Grafia: seis letras, sem acento, preferencialmente em minúsculas no logotipo.
+Conceito criativo: universo cívico + ideia de rumo. Associação proposta para a marca, não etimologia de uma palavra existente.
+Descritor: Gestão municipal integrada.
+Assinatura: A cidade em movimento.
+Identidade: verde #168779, azul-esverdeado escuro #172D36, fundo branco, símbolo C geométrico e tipografia de formas simples.
+O PNG entregue é um estudo visual, não um arquivo vetorial final. Não foi feita busca de anterioridade figurativa do símbolo.
+
+1. INPI — CONSULTA DIRETA
+Portal: https://servicos.busca.inpi.gov.br/marcas
+A página se identifica como "Ambiente de homologação — versão de avaliação" e informa dados atualizados em 07/07/2026.
+O sistema tradicional pePI retornou erro de acesso (504) durante a pesquisa. Assim, não foi possível confirmar a situação oficial completa até a data de hoje.
+
+Busca avançada, campo Marca, modalidade Exata, sem filtro de classe ou status:
+CIVUMO: 0 resultados.
+https://servicos.busca.inpi.gov.br/marcas?q=%28mark_name%3ACIVUMO%29&size=n_10_n
+SIVUMO, variante com a mesma pronúncia inicial: 0 resultados.
+https://servicos.busca.inpi.gov.br/marcas?q=%28mark_name%3ASIVUMO%29&size=n_20_n
+"Sem resultado" significa que a consulta não localizou o termo nessa base, não prova de inexistência universal ou de aprovação futura.
+
+Busca aproximada CIVUMO:
+Todas as classes: 162 resultados de aproximação automática.
+Classe 42: 15 resultados, todos lidos.
+Classe 09: 7 resultados, todos lidos.
+https://servicos.busca.inpi.gov.br/marcas?q=%28mark_name%3ACIVUMO~%29%20AND%20%28specifications.nice_class_code%3A42%29&size=n_20_n
+https://servicos.busca.inpi.gov.br/marcas?q=%28mark_name%3ACIVUMO~%29%20AND%20%28specifications.nice_class_code%3A09%29&size=n_20_n
+
+Resultados que merecem comparação profissional pelo setor e/ou grafia:
+- CELUMO, processo 917516044, classe 09. Registro em vigor na base consultada, incluindo programas de computador e aplicativos. Titular: GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP., LTD.
+  https://servicos.busca.inpi.gov.br/marcas/917516044
+- CASUMO, processos 914262602 (09) e 914262998 (42). Registros em vigor na base consultada, incluindo software e serviços de software.
+  https://servicos.busca.inpi.gov.br/marcas/914262602
+  https://servicos.busca.inpi.gov.br/marcas/914262998
+- CISUM, processo 933376545, classe 42. Registro em vigor na base consultada, incluindo computação gráfica, software de computação gráfica e projeto de sistemas.
+  https://servicos.busca.inpi.gov.br/marcas/933376545
+- VIVUM, processo 938952188, classes 09, 12, 42, 38. Pedido aguardando prazo de oposição na base consultada. Inclui software, SaaS e PaaS.
+  https://servicos.busca.inpi.gov.br/marcas/938952188
+- CIMO Central de Inteligência e Monitoramento, processos 932171516 (09) e 932171680 (42). Registros em vigor na base consultada, incluindo software e serviços de tecnologia.
+  https://servicos.busca.inpi.gov.br/marcas/932171516
+  https://servicos.busca.inpi.gov.br/marcas/932171680
+- CIVAGO, processo 940475499, classe 42, pedido na base consultada, com serviços de engenharia e criação de sites.
+  https://servicos.busca.inpi.gov.br/marcas/940475499
+- CIVO, processo 907524400, classe 09. Registro em vigor para equipamentos de balanceamento, medição e afins.
+  https://servicos.busca.inpi.gov.br/marcas/907524400
+- CIVIME, processo 939512505, classe 09, software meteorológico: pedido definitivamente arquivado na base consultada.
+  https://servicos.busca.inpi.gov.br/marcas/939512505
+Outros retornos da classe 42: CILUMA, CIAUTO/Ciauto, IZUMO, HOTEL CÍVICO, CIMO (engenharia), CIAMO ENGENHARIA, Semper Vivum Arquitetura e Paisagismo, CIMO Engenharia e Soluções Ambientais.
+A proximidade algorítmica não demonstra, por si só, impedimento; também não permite descartar conflito sem avaliar os sinais e os serviços. Os estados acima refletem a base disponível, não confirmação de situação atual em outubro.
+
+2. FONTE SECUNDÁRIA COMPLEMENTAR
+Consulta de Marcas, serviço privado e independente do INPI:
+https://www.consultademarcas.com.br/anterioridade?q=CIVUMO&classe=9&classe=42
+O relatório automático informou risco baixo e 0 processos parecidos selecionados para as classes 09 e 42.
+A página inicial declarava carga completa de dados de 07/09/2026 e processamento da RPI 2912 em 27/10/2026.
+Essa classificação automática não substitui a busca oficial e não invalida os resultados aproximados listados acima. Os mecanismos têm critérios diferentes.
+Fonte/metodologia: https://www.consultademarcas.com.br/sobre#metodologia
+
+3. DOMÍNIO
+Consulta direta ao Registro.br:
+https://registro.br/busca-dominio?fqdn=civumo.com.br
+Resultado visível: civumo.com.br — domínio disponível para registro.
+Disponibilidade observada em 29/10/2026; pode mudar a qualquer momento.
+Não foi comprado ou reservado. A disponibilidade do domínio não concede direito de marca.
+Não foram verificados outros finais de domínio ou usuários de redes sociais.
+
+4. BUSCA ABERTA NA WEB
+Consultas incluíram "Civumo" e variantes como "Sivumo".
+Não foi identificado uso empresarial relevante do nome exato nos resultados examinados.
+Os resultados encontrados para a sequência exata eram predominantemente ocorrências aparentes de OCR em documentos históricos e acadêmicos.
+Não se trata de levantamento exaustivo de empresas, juntas comerciais, lojas de aplicativos ou registros internacionais.
+
+5. CRITÉRIO PARA AVANÇAR
+Civumo mantém a direção estética desejada e não apresentou ocorrência idêntica nas consultas realizadas.
+Ainda é necessário atualizar a busca oficial, avaliar semelhanças fonéticas e visuais, definir a especificação e classes do produto e obter avaliação de registrabilidade antes de investir no lançamento.
+Não há como garantir que uma marca seja globalmente única ou que será concedida apenas a partir de uma triagem.
+Para software e SaaS, as classes 09 e 42 foram o foco inicial; as classes efetivamente necessárias dependem da oferta final.
+
+ARQUIVOS
+civumo-conceito.png — estudo visual.
+prompts.txt — instrução usada na criação da imagem.
+

@@ -1,0 +1,84 @@
+NOMES CURTOS — GESTÃO MUNICIPAL INTEGRADA
+Pesquisa realizada em 29/10/2026. Mercado considerado: Brasil.
+
+RESULTADO
+Dois candidatos criativos para aprofundar: URZEL e ULVEM.
+Ambos têm cinco letras, duas sílabas e dispensam acentos.
+Não foi localizado pedido ou registro com a grafia exata nas consultas realizadas.
+Os respectivos .com.br apareceram disponíveis no Registro.br.
+Os respectivos .com já possuem registro na Verisign.
+Esta é uma triagem preliminar, não uma declaração de exclusividade ou garantia de deferimento pelo INPI.
+
+1. URZEL
+Pronúncia sugerida: ur-ZEL.
+Conceito criativo: associação entre urbano e zelo; ideia de gestão atenta à cidade.
+Essa associação foi criada para a proposta, não é uma etimologia estabelecida.
+Descritor possível: Gestão municipal integrada.
+Assinatura possível: A cidade bem conduzida.
+
+INPI: busca por URZEL sem filtro de classe ou status: 0 resultados.
+Busca avançada aproximada no campo Marca, combinada com classe 42: 0 resultados.
+Busca avançada aproximada no campo Marca, combinada com classe 9: 0 resultados.
+https://servicos.busca.inpi.gov.br/marcas?q=URZEL&size=n_10_n
+https://servicos.busca.inpi.gov.br/marcas?q=%28mark_name%3AURZEL~%29%20AND%20%28specifications.nice_class_code%3A42%29&size=n_100_n
+https://servicos.busca.inpi.gov.br/marcas?q=%28mark_name%3AURZEL~%29%20AND%20%28specifications.nice_class_code%3A9%29&size=n_100_n
+
+Consulta complementar independente: 5 aproximações, nenhuma com a grafia URZEL.
+URZE: três pedidos na classe 25, sendo um em recurso e dois arquivados.
+URZE: processo antigo 814005969, situação descrita como Registro, sem classe exibida na lista consultada; requer revisão na validação jurídica final.
+Urzer+: processo 925243256, classe 3, registro em vigor.
+https://www.consultademarcas.com.br/buscar?q=URZEL&classe=
+
+Domínio urzel.com.br: disponível para registro, confirmado pela mensagem e link Registrar referentes ao domínio exato.
+https://registro.br/busca-dominio?fqdn=urzel.com.br
+Domínio urzel.com: registrado, data de criação informada 03/04/2012.
+Consulta RDAP da Verisign: HTTP 200, ldhName URZEL.COM.
+https://rdap.verisign.com/com/v1/domain/URZEL.COM
+
+Pesquisa geral na web: resultados principalmente ligados a sobrenomes e referências linguísticas; não foi identificada uma marca exata de software nos resultados examinados. Isso não demonstra inexistência global.
+
+2. ULVEM
+Pronúncia sugerida: UL-vem.
+Conceito criativo: nome abstrato, compacto e de sonoridade leve; a proposta municipal seria comunicada pelo descritor e pela identidade visual, sem atribuir significado fictício ao nome.
+Descritor possível: Gestão municipal integrada.
+Assinatura possível: Toda a cidade, conectada.
+
+INPI: busca por ULVEM sem filtro de classe ou status: 0 resultados.
+Busca avançada aproximada no campo Marca, combinada com classe 42: 0 resultados.
+Busca avançada aproximada no campo Marca, combinada com classe 9: 0 resultados.
+https://servicos.busca.inpi.gov.br/marcas?q=ULVEM&size=n_10_n
+https://servicos.busca.inpi.gov.br/marcas?q=%28mark_name%3AULVEM~%29%20AND%20%28specifications.nice_class_code%3A42%29&size=n_100_n
+https://servicos.busca.inpi.gov.br/marcas?q=%28mark_name%3AULVEM~%29%20AND%20%28specifications.nice_class_code%3A9%29&size=n_100_n
+
+Consulta complementar independente: uma aproximação, ULVER, processo 919877621, classe 25, registro em vigor. Nenhum resultado com a grafia ULVEM.
+https://www.consultademarcas.com.br/buscar?q=ULVEM&classe=
+
+Domínio ulvem.com.br: disponível para registro, confirmado pela mensagem e link Registrar referentes ao domínio exato.
+https://registro.br/busca-dominio?fqdn=ulvem.com.br
+Domínio ulvem.com: registrado, data de criação informada 07/09/2026.
+Consulta RDAP da Verisign: HTTP 200, ldhName ULVEM.COM.
+https://rdap.verisign.com/com/v1/domain/ULVEM.COM
+
+Pesquisa geral na web: ocorrências esparsas, incluindo textos antigos e páginas de jogos de palavras; não foi identificada uma marca exata de software nos resultados examinados. Isso não demonstra inexistência global.
+
+ALCANCE E LIMITAÇÕES
+O portal oficial utilizado se identifica como Ambiente de homologação — versão de avaliação e informa dados atualizados em 07/07/2026. A consulta oficial, portanto, não confirma a situação completa até 29/10/2026.
+https://servicos.busca.inpi.gov.br/marcas
+O sistema tradicional pePI havia retornado erro de acesso 504 na pesquisa anterior desta conversa.
+
+O serviço independente Consulta de Marcas declara carga completa da base aberta em 07/09/2026 e processamento da RPI 2912 em 27/10/2026. Foi utilizado como complemento, não como substituto da confirmação oficial. Alguns processos recentes não exibem a classe na base independente.
+https://www.consultademarcas.com.br/
+https://www.consultademarcas.com.br/sobre#metodologia
+
+As classes 9 e 42 foram priorizadas pela relação com software e serviços de tecnologia. O enquadramento final depende da especificação dos produtos e serviços efetivamente oferecidos. A pesquisa aproximada automática não cobre toda semelhança fonética, gráfica ou conceitual possível.
+Não foram feitas busca figurativa de símbolo, investigação internacional completa, reserva de domínio ou depósito de marca.
+Disponibilidade de domínio é um retrato do momento da consulta. Registro de domínio e registro de marca são verificações distintas.
+
+EXEMPLOS DE OPÇÕES DESCARTADAS DURANTE A TRIAGEM
+VUNEM: vunem.com.br disponível e nenhuma ocorrência exata na busca inicial, mas aproximações relevantes em tecnologia: VUNEL SOFTWARE (935093109, classe 42, registro em vigor) e Vunex (933297491, classe 42, em recurso).
+ZUVEM: zuvem.com.br disponível e nenhuma ocorrência exata na busca inicial; aproximações em tecnologia incluem ZUVE TECNOLOGIA e numerosas marcas NUVEM. Não levado à seleção final.
+NUZEL: nuzel.com.br disponível; aproximações registradas na classe 42 incluem NuCel (935631500) e NUEL TECH. Não levado à seleção final.
+ZEVOM: zevom.com.br disponível, nenhuma ocorrência exata e zero resultados aproximados nas classes 9/42 do portal oficial de avaliação. A base complementar revelou ZEVON (943498449), pedido de 24/04/2026 com classe ainda não informada na fonte consultada, além de ZEVOMO e outros nomes próximos. Retirado da seleção por incerteza adicional.
+GUVO: guvo.com.br ocupado; marca exata 928701719 registrada na classe 11.
+EVUN e VUNE: respectivos .com.br ocupados.
+Diversos outros nomes curtos foram descartados já na busca aberta por uso existente em aplicativos, SaaS e outras marcas comerciais.

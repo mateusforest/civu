@@ -1,0 +1,43 @@
+NOVA RODADA — NOMES LEVES, QUATRO LETRAS
+Data: 29/10/2026. Mercado: software de gestão municipal no Brasil.
+Resultado: candidatos criativos com ressalvas; nenhum declarado juridicamente livre.
+
+CIVU — ci-VU
+Associação criativa: cívico, cidade e participação.
+Busca pelo termo CIVU sem filtro de classe/status no INPI: 0 resultados.
+https://servicos.busca.inpi.gov.br/marcas?q=CIVU&size=n_10_n
+Busca aproximada classe 9: 0 resultados.
+Busca aproximada classe 42: 5 resultados. Incluem NIVU, processo 914497740, registro em vigor para atividades de software; LivU, processo 501788782, designação internacional com recurso; CIVA em inspeção veicular e arquitetura; CIU extinto em serviços médicos.
+https://servicos.busca.inpi.gov.br/marcas/914497740
+A proximidade com CIVA/SIVA, já discutida nesta conversa, também precisa ser considerada. Trocar uma vogal não estabelece automaticamente distância suficiente.
+civu.com.br disponível no Registro.br, com nome exato no resultado.
+https://registro.br/busca-dominio?fqdn=civu.com.br
+civu.com registrado: resposta RDAP Verisign com ldhName CIVU.COM.
+https://rdap.verisign.com/com/v1/domain/CIVU.COM
+Web: usos como sigla acadêmica, restaurante italiano e página pessoal de desenvolvedor; não foi identificada marca comercial exata de software nos resultados examinados. Pesquisa não exaustiva.
+
+UVOA — u-VO-a
+Associação criativa: urbano e voar, cidade que avança. Associação proposta, não etimologia.
+Busca pelo termo UVOA sem filtro de classe/status no INPI: 0 resultados.
+https://servicos.busca.inpi.gov.br/marcas?q=UVOA&size=n_10_n
+Busca aproximada classe 9: 0 resultados.
+Busca aproximada classe 42: 23 resultados. Aproximação relevante: EVOA, processo 914876546, registro em vigor, e novo pedido 940461544 do mesmo núcleo de tecnologia. Existem também marcas VOA, inclusive relacionadas a software. Requer avaliação de semelhança.
+https://servicos.busca.inpi.gov.br/marcas/914876546
+Consulta complementar independente: uma aproximação, UVO, processo 831026154, classe 38, registro extinto. Essa fonte não retornou EVOA, demonstrando que a busca automática não é exaustiva.
+https://www.consultademarcas.com.br/buscar?q=UVOA&classe=
+uvoa.com.br disponível no Registro.br, com nome exato no resultado.
+https://registro.br/busca-dominio?fqdn=uvoa.com.br
+uvoa.com registrado: resposta RDAP Verisign com ldhName UVOA.COM.
+https://rdap.verisign.com/com/v1/domain/UVOA.COM
+Web: siglas, blog pessoal e referência a Uvoa University nos EUA, listada como consultoria de gestão em diretório não verificado. Não é palavra comprovadamente inédita no mundo.
+
+LIMITES
+O portal oficial consultado é de homologação e informa dados atualizados em 07/07/2026. Não foi possível atestar ausência de depósitos posteriores com base nele.
+Classe 9 e classe 42 foram usadas como triagem para programas e serviços digitais. A classificação final depende da especificação comercial.
+Ausência de resultado exato não comprova registrabilidade. Os apontamentos de semelhança acima não são decisões jurídicas de impedimento ou liberação.
+Domínios disponíveis no momento da consulta; nenhum foi reservado ou adquirido.
+
+DESCARTES
+CEZU: nenhuma ocorrência exata na busca inicial e cezu.com.br disponível, mas CEZO, processo 939978920, pedido na classe 42 para plataforma de software. Pesquisa ampliada também encontrou Cezu, produto de IA da xAQUA. Retirado da seleção.
+https://www.linkedin.com/posts/xaqua_xaqua-askcezu-enterpriseai-activity-7491175281718722560-Lq38
+UVIA, EVIA, CAVO, ZOVU, VUCI e EVUA: usos identificados em tecnologia, software ou aplicativos. Não apresentados como nomes novos disponíveis.

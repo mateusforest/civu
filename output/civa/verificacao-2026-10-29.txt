@@ -1,0 +1,67 @@
+CIVA — VERIFICAÇÃO PRELIMINAR E DIREÇÃO ESCOLHIDA
+Data da consulta: 29/10/2026 — horário de referência: America/Sao_Paulo.
+
+CONCLUSÃO
+O nome CIVA já tem usos comerciais, inclusive em software. A pesquisa também encontrou SIVA, de mesma pronúncia, com registros exibidos como vigentes no INPI nas classes 9 e 42. A disponibilidade de CIVA para o negócio proposto não está confirmada. Esses resultados justificam uma análise especializada de colidência antes de adotar o nome como definitivo.
+Esta conclusão é uma triagem de risco; não é uma decisão do INPI nem uma afirmação de que o registro de CIVA será necessariamente recusado.
+
+ACHADOS PRIORITÁRIOS NO INPI
+
+1. SIVA — SISTEMA INTEGRADO DE VALOR ADICIONADO
+Processo: 933131658.
+Apresentação: mista.
+Titular exibido: SOLUÇÃO CONSULTORIA TRIBUTÁRIA E AUDITORIA EIRELI EPP.
+Classe de Nice: 42.
+Situação exibida: Registro de marca em vigor.
+Concessão: 16/09/2025. Vigência exibida: 16/09/2035.
+Especificação inclui aluguel, consultoria, desenvolvimento e instalação de software; provimento de software online não baixável; software como serviço (SaaS).
+Relevância: mesma pronúncia de CIVA e serviços próximos ao produto proposto. A afinidade e o conjunto da marca precisam de avaliação jurídica.
+Fonte: https://servicos.busca.inpi.gov.br/marcas/933131658
+Ficha baixada pelo botão oficial Baixar PDF: inpi-siva-933131658.pdf.
+
+2. SIVA
+Processo: 824841689.
+Apresentação: mista.
+Titular exibido: DJA COMÉRCIO E SERVIÇOS EM INFORMÁTICA LTDA.
+Classe de Nice: 09.
+Situação exibida: Registro de marca em vigor.
+Concessão: 02/05/2007. Vigência exibida: 02/05/2027.
+Especificação: programas de computador [softwares gravados].
+Fonte: https://servicos.busca.inpi.gov.br/marcas/824841689
+
+3. CIVA e expressões contendo CIVA
+A busca pelo campo Marca retornou 15 resultados, incluindo marcas compostas e processos extintos ou arquivados. Foram observados registros CIVA para produtos industriais e marcas compostas na classe 42 para inspeção veicular e arquitetura. Esses resultados não devem ser confundidos com 15 registros ativos de software, nem tratados automaticamente como impedimentos.
+Nas ocorrências revisadas dessa busca, não apareceu CIVA exatamente para software. Isso NÃO confirma disponibilidade, sobretudo diante das ocorrências SIVA e das limitações da base.
+Fonte: https://servicos.busca.inpi.gov.br/marcas?q=%28mark_name%3ACIVA%29&size=n_50_n
+
+USOS COMERCIAIS ENCONTRADOS
+- CIVA: software de simulação e análise de ensaios não destrutivos, comercializado pela EXTENDE. Fonte primária: https://www.extende.com/
+- Civa Tech: site que oferece automação empresarial, desenvolvimento de aplicações e integração de sistemas/SaaS. Fonte primária: https://civa.tech/
+- SIVA: site brasileiro de plataforma de controle operacional para varejo. Fonte primária: https://sivagestao.com.br/
+- SivaADM / Siva+: soluções de gestão e aplicativos móveis da Softmóvel. Fonte primária: https://softmovel.com.br/gestao.html
+Essas páginas comprovam usos encontrados, não demonstram por si só a titularidade de registros brasileiros de marca.
+
+DOMÍNIOS
+- civa.com.br: Registro.br exibiu Domínio já registrado.
+  Fonte: https://registro.br/busca-dominio?fqdn=civa.com.br
+- civa.app.br: Registro.br exibiu disponibilidade e opção de registro no momento da consulta.
+  Fonte: https://registro.br/busca-dominio?fqdn=civa.app.br
+Nenhum domínio foi comprado ou reservado. Disponibilidade de domínio é dinâmica e não equivale à disponibilidade da marca. A alternativa civa.app.br não elimina os conflitos potenciais do nome.
+
+LIMITAÇÕES
+A nova plataforma oficial do INPI exibia Ambiente de homologação — versão de avaliação e Dados atualizados em: 07/07/2026. A pesquisa tradicional pePI apresentou erro inicial, depois tela de acesso anônimo e não concluiu a consulta durante as tentativas. Portanto, não foi possível atestar a situação atual completa de todos os processos em 29/10/2026.
+A consulta foi textual, com CIVA e SIVA. Não substitui uma busca abrangente por semelhanças gráficas, fonéticas, conceituais e figurativas, nem uma avaliação de produtos/serviços afins. Não foi feita uma pesquisa completa de anterioridade do símbolo gerado.
+O INPI informa que a registrabilidade considera também a fonética, não apenas a grafia. Fonte: https://www.gov.br/inpi/pt-br/plataforma-integrada-de-atendimento/logica-dos-servicos
+
+DIREÇÃO CRIATIVA ESCOLHIDA PELO USUÁRIO
+Nome de trabalho: Civa, pronunciado CÍ-va, ainda sujeito à validação.
+Preferências: clean, minimalista, personalidade, fácil pronúncia e memorização.
+Produto: plataforma de gestão municipal completa, automação e acesso digital para prefeitura, cidadãos, empresas e prestadores de serviços.
+Direção visual: palavra civa em minúsculas, símbolo C simples e aberto, amplo espaço em branco, verde #168779 e azul profundo #172D36.
+Descrição proposta: Gestão municipal integrada.
+Assinatura proposta: A cidade conectada.
+Arquivo de referência preservado: civa-direcao-escolhida.png.
+Esse arquivo é um estudo em imagem gerado por IA, não um logotipo vetorial final.
+
+PRÓXIMA DECISÃO
+Preservar a direção visual escolhida. Antes de finalizar o nome e aplicá-lo publicamente, atualizar os processos e submeter os conflitos SIVA nas classes 9 e 42 a uma análise especializada. Se houver necessidade de mudar o nome, manter os atributos visuais e verbais aprovados, sem assumir que trocar uma letra ou acrescentar um termo genérico resolve a semelhança.
